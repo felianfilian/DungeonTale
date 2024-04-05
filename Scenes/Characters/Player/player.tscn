@@ -1,7 +1,7 @@
 [gd_scene load_steps=35 format=3 uid="uid://cpatojcfnuqv5"]
 
 [ext_resource type="Texture2D" uid="uid://dwuqqn0v5bexj" path="res://Assets/Sprites/Characters/Player/Running/Running_002.png" id="1_0la5v"]
-[ext_resource type="Script" path="res://Scripts/Player/Player.cs" id="1_1m2ms"]
+[ext_resource type="Script" path="res://Scripts/Characters/Player.cs" id="1_1m2ms"]
 [ext_resource type="Texture2D" uid="uid://ddmdalmgl7o5l" path="res://Assets/Sprites/Characters/Player/Idle Blinking/Idle Blinking_000.png" id="1_yah3t"]
 [ext_resource type="Texture2D" uid="uid://ol7bxiol4mcy" path="res://Assets/Sprites/Characters/Player/Idle Blinking/Idle Blinking_001.png" id="3_yco5r"]
 [ext_resource type="Texture2D" uid="uid://dtemm1iy7dxhd" path="res://Assets/Sprites/Characters/Player/Idle Blinking/Idle Blinking_002.png" id="4_k1ecd"]
