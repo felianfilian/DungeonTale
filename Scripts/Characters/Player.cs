@@ -3,6 +3,7 @@ using System;
 
 public partial class Player : CharacterBody3D
 {
+    [ExportGroup("Required Nodes")]
     [Export] private AnimationPlayer ainmPlayerNode;
     [Export] private Sprite3D sprite3D;
 
