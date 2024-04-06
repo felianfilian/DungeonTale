@@ -11,7 +11,7 @@ public partial class Player : CharacterBody3D
 
     public override void _Ready()
     {
-        animPlayerNode.Play("idle");
+        animPlayerNode.Play(GameConstants.ANIM_IDLE);
     }
 
     public override void _PhysicsProcess(double delta)
@@ -29,9 +29,9 @@ public partial class Player : CharacterBody3D
         );
 
         if(direction == Vector2.Zero) {
-            animPlayerNode.Play("idle");
+            animPlayerNode.Play(GameConstants.ANIM_IDLE);
         } else {
-            animPlayerNode.Play("move");
+            animPlayerNode.Play(GameConstants.ANIM_MOVE);
         }
     }
 }
