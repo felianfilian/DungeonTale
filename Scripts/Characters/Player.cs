@@ -4,15 +4,14 @@ using System;
 public partial class Player : CharacterBody3D
 {
     [ExportGroup("Required Nodes")]
-    [Export] private AnimationPlayer ainmPlayerNode;
+    [Export] private AnimationPlayer animPlayerNode;
     [Export] private Sprite3D sprite3D;
 
     private Vector2 direction = new(); // default (0, 0)
 
     public override void _Ready()
     {
-        GD.Print(ainmPlayerNode.Name);
-        GD.Print(sprite3D.Name);
+        animPlayerNode.Play("idle");
     }
 
     public override void _PhysicsProcess(double delta)
@@ -29,5 +28,10 @@ public partial class Player : CharacterBody3D
             "MoveLeft", "MoveRight", "MoveForward", "MoveBackward"
         );
 
+        if(direction == Vector2.Zero) {
+            animPlayerNode.Play("idle");
+        } else {
+            animPlayerNode.Play("move");
+        }
     }
 }

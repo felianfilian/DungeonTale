@@ -9,4 +9,4 @@ script = ExtResource("1_tuvp5")
 [node name="AnimationPlayer" parent="." instance=ExtResource("2_ypa3x")]
 
 [node name="Camera3D" type="Camera3D" parent="."]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 5.83645)
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 10.0533)
