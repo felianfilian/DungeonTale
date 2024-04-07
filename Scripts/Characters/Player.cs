@@ -38,7 +38,11 @@ public partial class Player : CharacterBody3D
     }
 
     private void Flip() {
-        bool isMovingLeft = Velocity.X < 0;
-        spriteNode.FlipH = isMovingLeft;
+        if(Velocity.X < 0) {
+            spriteNode.FlipH = true;
+        } else if(Velocity.X > 0) {
+            spriteNode.FlipH = false;
+        }
+        
     }
 }
