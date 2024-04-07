@@ -7,7 +7,7 @@ public partial class Player : CharacterBody3D
     [Export] public AnimationPlayer animPlayerNode;
     [Export] public Sprite3D spriteNode;
 
-    private Vector2 direction = new(); // default (0, 0)
+    public Vector2 direction = new(); // default (0, 0)
 
 
     public override void _PhysicsProcess(double delta)
