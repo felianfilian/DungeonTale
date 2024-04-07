@@ -1,5 +1,5 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1712284983
+::res://::1712328923
 icon.svg::CompressedTexture2D::464810513771733220::1710478288::1710478323::1::::<><>::
 ::res://Assets/::1710478548
 Icon.png::CompressedTexture2D::557298867948803100::1710478508::1710478548::1::::<><>::
@@ -539,25 +539,25 @@ Dying_011.png::CompressedTexture2D::3002174056968211835::1710478530::1710478552:
 Dying_012.png::CompressedTexture2D::889201414825530029::1710478530::1710478552::1::::<><>::
 Dying_013.png::CompressedTexture2D::2396087536521115688::1710478530::1710478552::1::::<><>::
 Dying_014.png::CompressedTexture2D::6109265459262784505::1710478530::1710478552::1::::<><>::
-::res://Assets/Sprites/Characters/Player/Idle Blinking/::1710797672
-Idle Blinking_000.png::CompressedTexture2D::7394783862603508783::1710478530::1710795652::1::::<><>::
-Idle Blinking_001.png::CompressedTexture2D::1007297916836980708::1710478530::1710797586::1::::<><>::
-Idle Blinking_002.png::CompressedTexture2D::8501859003757110629::1710478530::1710797591::1::::<><>::
-Idle Blinking_003.png::CompressedTexture2D::5706994548342254371::1710478530::1710797597::1::::<><>::
-Idle Blinking_004.png::CompressedTexture2D::5668287204723810617::1710478530::1710797602::1::::<><>::
-Idle Blinking_005.png::CompressedTexture2D::2896417925922059090::1710478530::1710797608::1::::<><>::
-Idle Blinking_006.png::CompressedTexture2D::1171208250749415615::1710478530::1710797613::1::::<><>::
-Idle Blinking_007.png::CompressedTexture2D::755245395006971817::1710478530::1710797619::1::::<><>::
-Idle Blinking_008.png::CompressedTexture2D::2327935845830024559::1710478530::1710797624::1::::<><>::
-Idle Blinking_009.png::CompressedTexture2D::143194253658037705::1710478531::1710797632::1::::<><>::
-Idle Blinking_010.png::CompressedTexture2D::7885553577334107986::1710478531::1710797637::1::::<><>::
-Idle Blinking_011.png::CompressedTexture2D::5036332752235566392::1710478531::1710797642::1::::<><>::
-Idle Blinking_012.png::CompressedTexture2D::6512337245630214563::1710478531::1710797646::1::::<><>::
-Idle Blinking_013.png::CompressedTexture2D::8564388292167722298::1710478531::1710797651::1::::<><>::
-Idle Blinking_014.png::CompressedTexture2D::5264321711788648684::1710478531::1710797656::1::::<><>::
-Idle Blinking_015.png::CompressedTexture2D::4603646231151476815::1710478531::1710797663::1::::<><>::
-Idle Blinking_016.png::CompressedTexture2D::7093434032522021208::1710478531::1710797668::1::::<><>::
-Idle Blinking_017.png::CompressedTexture2D::5628753296679297685::1710478531::1710797672::1::::<><>::
+::res://Assets/Sprites/Characters/Player/Idle Blinking/::1712510192
+Idle Blinking_000.png::CompressedTexture2D::7394783862603508783::1710478530::1712510155::1::::<><>::
+Idle Blinking_001.png::CompressedTexture2D::1007297916836980708::1710478530::1712510191::1::::<><>::
+Idle Blinking_002.png::CompressedTexture2D::8501859003757110629::1710478530::1712510191::1::::<><>::
+Idle Blinking_003.png::CompressedTexture2D::5706994548342254371::1710478530::1712510191::1::::<><>::
+Idle Blinking_004.png::CompressedTexture2D::5668287204723810617::1710478530::1712510191::1::::<><>::
+Idle Blinking_005.png::CompressedTexture2D::2896417925922059090::1710478530::1712510191::1::::<><>::
+Idle Blinking_006.png::CompressedTexture2D::1171208250749415615::1710478530::1712510191::1::::<><>::
+Idle Blinking_007.png::CompressedTexture2D::755245395006971817::1710478530::1712510191::1::::<><>::
+Idle Blinking_008.png::CompressedTexture2D::2327935845830024559::1710478530::1712510191::1::::<><>::
+Idle Blinking_009.png::CompressedTexture2D::143194253658037705::1710478531::1712510191::1::::<><>::
+Idle Blinking_010.png::CompressedTexture2D::7885553577334107986::1710478531::1712510190::1::::<><>::
+Idle Blinking_011.png::CompressedTexture2D::5036332752235566392::1710478531::1712510190::1::::<><>::
+Idle Blinking_012.png::CompressedTexture2D::6512337245630214563::1710478531::1712510190::1::::<><>::
+Idle Blinking_013.png::CompressedTexture2D::8564388292167722298::1710478531::1712510190::1::::<><>::
+Idle Blinking_014.png::CompressedTexture2D::5264321711788648684::1710478531::1712510190::1::::<><>::
+Idle Blinking_015.png::CompressedTexture2D::4603646231151476815::1710478531::1712510190::1::::<><>::
+Idle Blinking_016.png::CompressedTexture2D::7093434032522021208::1710478531::1712510190::1::::<><>::
+Idle Blinking_017.png::CompressedTexture2D::5628753296679297685::1710478531::1712510190::1::::<><>::
 ::res://Assets/Sprites/Characters/Player/Kicking/::1710478555
 Kicking_000.png::CompressedTexture2D::8073958307198171592::1710478531::1710478550::1::::<><>::
 Kicking_001.png::CompressedTexture2D::8169345797715871411::1710478531::1710478550::1::::<><>::
@@ -572,18 +572,18 @@ Kicking_009.png::CompressedTexture2D::7113722318047284773::1710478532::171047855
 Kicking_010.png::CompressedTexture2D::8162922711378021102::1710478532::1710478555::1::::<><>::
 Kicking_011.png::CompressedTexture2D::8104753616619132585::1710478532::1710478554::1::::<><>::
 ::res://Assets/Sprites/Characters/Player/Running/::1710797887
-Running_000.png::CompressedTexture2D::5418192930734009505::1710478532::1710797837::1::::<><>::
-Running_001.png::CompressedTexture2D::4666816885446677771::1710478532::1710797841::1::::<><>::
-Running_002.png::CompressedTexture2D::8745704933201893871::1710478532::1710797845::1::::<><>::
-Running_003.png::CompressedTexture2D::5404932137154465098::1710478532::1710797850::1::::<><>::
-Running_004.png::CompressedTexture2D::7428309692581729804::1710478532::1710797855::1::::<><>::
-Running_005.png::CompressedTexture2D::3315589642473856975::1710478532::1710797859::1::::<><>::
-Running_006.png::CompressedTexture2D::2338086928035771656::1710478532::1710797864::1::::<><>::
-Running_007.png::CompressedTexture2D::8392676822071986773::1710478532::1710797868::1::::<><>::
-Running_008.png::CompressedTexture2D::7444378963071466228::1710478532::1710797872::1::::<><>::
-Running_009.png::CompressedTexture2D::4749602050644461663::1710478533::1710797878::1::::<><>::
-Running_010.png::CompressedTexture2D::5435214111670738175::1710478533::1710797882::1::::<><>::
-Running_011.png::CompressedTexture2D::185291509745602472::1710478533::1710797887::1::::<><>::
+Running_000.png::CompressedTexture2D::5418192930734009505::1710478532::1712510217::1::::<><>::
+Running_001.png::CompressedTexture2D::4666816885446677771::1710478532::1712510217::1::::<><>::
+Running_002.png::CompressedTexture2D::8745704933201893871::1710478532::1712510217::1::::<><>::
+Running_003.png::CompressedTexture2D::5404932137154465098::1710478532::1712510217::1::::<><>::
+Running_004.png::CompressedTexture2D::7428309692581729804::1710478532::1712510217::1::::<><>::
+Running_005.png::CompressedTexture2D::3315589642473856975::1710478532::1712510217::1::::<><>::
+Running_006.png::CompressedTexture2D::2338086928035771656::1710478532::1712510217::1::::<><>::
+Running_007.png::CompressedTexture2D::8392676822071986773::1710478532::1712510217::1::::<><>::
+Running_008.png::CompressedTexture2D::7444378963071466228::1710478532::1712510218::1::::<><>::
+Running_009.png::CompressedTexture2D::4749602050644461663::1710478533::1712510218::1::::<><>::
+Running_010.png::CompressedTexture2D::5435214111670738175::1710478533::1712510218::1::::<><>::
+Running_011.png::CompressedTexture2D::185291509745602472::1710478533::1712510218::1::::<><>::
 ::res://Assets/Sprites/Characters/Player/Slashing/::1710478553
 Slashing_000.png::CompressedTexture2D::3374334011296089247::1710478533::1710478553::1::::<><>::
 Slashing_001.png::CompressedTexture2D::4156613249544838176::1710478533::1710478553::1::::<><>::
@@ -647,15 +647,16 @@ UI ElementUI 10.png::CompressedTexture2D::1685150520851309820::1710478536::17104
 UI ElementUI 11.png::CompressedTexture2D::8965903955871114396::1710478536::1710478548::1::::<><>::
 UI ElementUI 12.png::CompressedTexture2D::8187075005398732456::1710478536::1710478548::1::::<><>::
 UI ElementUI 13.png::CompressedTexture2D::8248199214128504083::1710478536::1710478548::1::::<><>::
-::res://Levels/::1712285715
-main.tscn::PackedScene::652284258381495737::1712285715::0::1::::<><>::res://Scripts/Levels/Main.cs
+::res://Levels/::1712509900
+main.tscn::PackedScene::652284258381495737::1712509900::0::1::::<><>::res://Scripts/Levels/Main.cs<>uid://cpatojcfnuqv5::::res://Scenes/Characters/Player/player.tscn
 ::res://Scenes/::1710795550
 ::res://Scenes/Characters/::1710795563
-::res://Scenes/Characters/Player/::1712286224
-player.tscn::PackedScene::5826853121979034168::1712286256::0::1::::<><>::uid://dwuqqn0v5bexj::::res://Assets/Sprites/Characters/Player/Running/Running_002.png<>res://Scripts/Player/Player.cs<>uid://ddmdalmgl7o5l::::res://Assets/Sprites/Characters/Player/Idle Blinking/Idle Blinking_000.png<>uid://ol7bxiol4mcy::::res://Assets/Sprites/Characters/Player/Idle Blinking/Idle Blinking_001.png<>uid://dtemm1iy7dxhd::::res://Assets/Sprites/Characters/Player/Idle Blinking/Idle Blinking_002.png<>uid://cnkrmptll3qm2::::res://Assets/Sprites/Characters/Player/Idle Blinking/Idle Blinking_003.png<>uid://cm004kus44a3j::::res://Assets/Sprites/Characters/Player/Idle Blinking/Idle Blinking_004.png<>uid://bhjbtys8yxfda::::res://Assets/Sprites/Characters/Player/Idle Blinking/Idle Blinking_005.png<>uid://qxlvm4ltjv0b::::res://Assets/Sprites/Characters/Player/Idle Blinking/Idle Blinking_006.png<>uid://k031tgyy4u06::::res://Assets/Sprites/Characters/Player/Idle Blinking/Idle Blinking_007.png<>uid://8fw07lmxeba2::::res://Assets/Sprites/Characters/Player/Idle Blinking/Idle Blinking_008.png<>uid://cbmnhbec7ven::::res://Assets/Sprites/Characters/Player/Idle Blinking/Idle Blinking_009.png<>uid://dkl26ed6u1okw::::res://Assets/Sprites/Characters/Player/Idle Blinking/Idle Blinking_010.png<>uid://cd0vwuj52j0gq::::res://Assets/Sprites/Characters/Player/Idle Blinking/Idle Blinking_011.png<>uid://cy1vii40dig3d::::res://Assets/Sprites/Characters/Player/Idle Blinking/Idle Blinking_012.png<>uid://duawhu3etxkx3::::res://Assets/Sprites/Characters/Player/Idle Blinking/Idle Blinking_013.png<>uid://chacuyspsdcns::::res://Assets/Sprites/Characters/Player/Idle Blinking/Idle Blinking_014.png<>uid://b6ubm7h8ny11d::::res://Assets/Sprites/Characters/Player/Idle Blinking/Idle Blinking_015.png<>uid://c8cd27n4ixnh5::::res://Assets/Sprites/Characters/Player/Idle Blinking/Idle Blinking_016.png<>uid://cmgu0ks5e0vwn::::res://Assets/Sprites/Characters/Player/Idle Blinking/Idle Blinking_017.png<>uid://cjgu306wseiq8::::res://Assets/Sprites/Characters/Player/Running/Running_000.png<>uid://b7qv164qx2m0b::::res://Assets/Sprites/Characters/Player/Running/Running_001.png<>uid://cjagpbxcmbbhq::::res://Assets/Sprites/Characters/Player/Running/Running_003.png<>uid://dd3lf7x31bpv5::::res://Assets/Sprites/Characters/Player/Running/Running_004.png<>uid://bnidjohegdcl0::::res://Assets/Sprites/Characters/Player/Running/Running_005.png<>uid://8kt7kk721ddw::::res://Assets/Sprites/Characters/Player/Running/Running_006.png<>uid://drtqfqg4d4d5v::::res://Assets/Sprites/Characters/Player/Running/Running_007.png<>uid://decd3l780xc1q::::res://Assets/Sprites/Characters/Player/Running/Running_008.png<>uid://b8w0itewktobn::::res://Assets/Sprites/Characters/Player/Running/Running_009.png<>uid://cjo4gg1c13qs2::::res://Assets/Sprites/Characters/Player/Running/Running_010.png<>uid://cv0yvb18vak3::::res://Assets/Sprites/Characters/Player/Running/Running_011.png
-::res://Scripts/::1712285610
-::res://Scripts/Characters/::0
+::res://Scenes/Characters/Player/::1712509899
+player.tscn::PackedScene::5826853121979034168::1712509899::0::1::::<><>::uid://dwuqqn0v5bexj::::res://Assets/Sprites/Characters/Player/Running/Running_002.png<>res://Scripts/Characters/Player.cs<>uid://ddmdalmgl7o5l::::res://Assets/Sprites/Characters/Player/Idle Blinking/Idle Blinking_000.png<>uid://ol7bxiol4mcy::::res://Assets/Sprites/Characters/Player/Idle Blinking/Idle Blinking_001.png<>uid://dtemm1iy7dxhd::::res://Assets/Sprites/Characters/Player/Idle Blinking/Idle Blinking_002.png<>uid://cnkrmptll3qm2::::res://Assets/Sprites/Characters/Player/Idle Blinking/Idle Blinking_003.png<>uid://cm004kus44a3j::::res://Assets/Sprites/Characters/Player/Idle Blinking/Idle Blinking_004.png<>uid://bhjbtys8yxfda::::res://Assets/Sprites/Characters/Player/Idle Blinking/Idle Blinking_005.png<>uid://qxlvm4ltjv0b::::res://Assets/Sprites/Characters/Player/Idle Blinking/Idle Blinking_006.png<>uid://k031tgyy4u06::::res://Assets/Sprites/Characters/Player/Idle Blinking/Idle Blinking_007.png<>uid://8fw07lmxeba2::::res://Assets/Sprites/Characters/Player/Idle Blinking/Idle Blinking_008.png<>uid://cbmnhbec7ven::::res://Assets/Sprites/Characters/Player/Idle Blinking/Idle Blinking_009.png<>uid://dkl26ed6u1okw::::res://Assets/Sprites/Characters/Player/Idle Blinking/Idle Blinking_010.png<>uid://cd0vwuj52j0gq::::res://Assets/Sprites/Characters/Player/Idle Blinking/Idle Blinking_011.png<>uid://cy1vii40dig3d::::res://Assets/Sprites/Characters/Player/Idle Blinking/Idle Blinking_012.png<>uid://duawhu3etxkx3::::res://Assets/Sprites/Characters/Player/Idle Blinking/Idle Blinking_013.png<>uid://chacuyspsdcns::::res://Assets/Sprites/Characters/Player/Idle Blinking/Idle Blinking_014.png<>uid://b6ubm7h8ny11d::::res://Assets/Sprites/Characters/Player/Idle Blinking/Idle Blinking_015.png<>uid://c8cd27n4ixnh5::::res://Assets/Sprites/Characters/Player/Idle Blinking/Idle Blinking_016.png<>uid://cmgu0ks5e0vwn::::res://Assets/Sprites/Characters/Player/Idle Blinking/Idle Blinking_017.png<>uid://cjgu306wseiq8::::res://Assets/Sprites/Characters/Player/Running/Running_000.png<>uid://b7qv164qx2m0b::::res://Assets/Sprites/Characters/Player/Running/Running_001.png<>uid://cjagpbxcmbbhq::::res://Assets/Sprites/Characters/Player/Running/Running_003.png<>uid://dd3lf7x31bpv5::::res://Assets/Sprites/Characters/Player/Running/Running_004.png<>uid://bnidjohegdcl0::::res://Assets/Sprites/Characters/Player/Running/Running_005.png<>uid://8kt7kk721ddw::::res://Assets/Sprites/Characters/Player/Running/Running_006.png<>uid://drtqfqg4d4d5v::::res://Assets/Sprites/Characters/Player/Running/Running_007.png<>uid://decd3l780xc1q::::res://Assets/Sprites/Characters/Player/Running/Running_008.png<>uid://b8w0itewktobn::::res://Assets/Sprites/Characters/Player/Running/Running_009.png<>uid://cjo4gg1c13qs2::::res://Assets/Sprites/Characters/Player/Running/Running_010.png<>uid://cv0yvb18vak3::::res://Assets/Sprites/Characters/Player/Running/Running_011.png
+::res://Scripts/::1712385721
+::res://Scripts/Characters/::1712285659
+Player.cs::CSharpScript::-1::1712509896::0::1::::<>CharacterBody3D<>::
+::res://Scripts/General/::1712386218
+GameConstants.cs::CSharpScript::-1::1712386646::0::1::::<><>::
 ::res://Scripts/Levels/::1712284983
-Main.cs::CSharpScript::-1::1712284983::0::1::::<><>::
-::res://Scripts/Player/::1712285659
-Player.cs::CSharpScript::-1::1712285659::0::1::::<><>::
+Main.cs::CSharpScript::-1::1712284983::0::1::::<>Node3D<>::
