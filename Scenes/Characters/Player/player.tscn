@@ -75,11 +75,12 @@ _data = {
 "move": SubResource("Animation_tb0ll")
 }
 
-[node name="Player" type="CharacterBody3D" node_paths=PackedStringArray("animPlayerNode", "spriteNode")]
+[node name="Player" type="CharacterBody3D" node_paths=PackedStringArray("animPlayerNode", "spriteNode", "stateMachineNode")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, -2.10035)
 script = ExtResource("1_tcyhw")
 animPlayerNode = NodePath("AnimationPlayer")
 spriteNode = NodePath("Sprite3D")
+stateMachineNode = NodePath("StateMachine")
 
 [node name="Sprite3D" type="Sprite3D" parent="."]
 texture_filter = 0
@@ -98,5 +99,5 @@ script = ExtResource("32_ul3qf")
 
 [node name="StateMachine" type="Node" parent="." node_paths=PackedStringArray("currentState", "states")]
 script = ExtResource("34_t6kjr")
-currentState = NodePath("../MoveState")
+currentState = NodePath("../IdleState")
 states = [NodePath("../IdleState"), NodePath("../MoveState")]
