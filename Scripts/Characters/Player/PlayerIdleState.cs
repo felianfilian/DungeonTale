@@ -12,7 +12,7 @@ public partial class PlayerIdleState : Node
     public override void _PhysicsProcess(double delta)
     {
         if(player.direction != Vector2.Zero) {
-            
+            player.stateMachineNode.SwitchState<PlayerMoveState>();
         }
     }
 
