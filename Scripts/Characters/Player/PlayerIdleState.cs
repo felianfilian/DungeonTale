@@ -29,5 +29,10 @@ public partial class PlayerIdleState : Node
         }
     }
 
+    public override void _Input(InputEvent @event)
+    {
+        if(Input.IsActionJustPressed(GameConstants.INPUT_DASH)) {
+            player.stateMachineNode.SwitchState<PlayerDashState>();        }
+    }
 
 }
