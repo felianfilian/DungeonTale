@@ -7,3 +7,4 @@ res://Scenes/Characters/Player/PlayerIdleState.cs
 res://Scripts/Characters/Player/Player.cs
 res://Scripts/Characters/Player/PlayerMoveState.cs
 res://Scripts/Characters/StateMachine.cs
+res://Scripts/Characters/Player/PlayerDashState.cs
