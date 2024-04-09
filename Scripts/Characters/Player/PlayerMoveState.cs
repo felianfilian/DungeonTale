@@ -12,7 +12,6 @@ public partial class PlayerMoveState : Node
 
     public override void _PhysicsProcess(double delta)
     {
-        GD.Print("move IT");
         if(player.direction == Vector2.Zero) {
             player.stateMachineNode.SwitchState<PlayerIdleState>();
         }
