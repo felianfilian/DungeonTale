@@ -4,7 +4,7 @@ using System;
 public partial class PlayerDashState : Node
 {
     private Player player;
-    private Timer dashTimer;
+    [Export] private Timer dashTimer;
 
     public override void _Ready()
     {
