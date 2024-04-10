@@ -15,7 +15,15 @@ public partial class PlayerMoveState : Node
     {
         if(player.direction == Vector2.Zero) {
             player.stateMachineNode.SwitchState<PlayerIdleState>();
+            return;
         }
+
+        player.Velocity = new(player.direction.X, 0, player.direction.Y);
+        player.Velocity *= 5;
+
+        player.MoveAndSlide();
+
+        player.Flip();
     }
 
     public override void _Notification(int what)
