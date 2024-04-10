@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DungeonTale")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+726b24bfa8acbdc5ddff2e66d14da538d044ee69")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35a90d93cdb7876377dd9622b000348d2344088c")]
 [assembly: System.Reflection.AssemblyProductAttribute("DungeonTale")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DungeonTale")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
