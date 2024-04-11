@@ -27,6 +27,12 @@ public partial class PlayerDashState : Node
         }
     }
 
+    public override void _PhysicsProcess(double delta)
+    {
+        player.MoveAndSlide();
+        player.Flip();
+    }
+
     private void HandleDashTimeout() {
         player.stateMachineNode.SwitchState<PlayerIdleState>();
     }
