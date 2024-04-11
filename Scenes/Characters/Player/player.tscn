@@ -33,7 +33,7 @@
 [ext_resource type="Texture2D" uid="uid://cjo4gg1c13qs2" path="res://Assets/Sprites/Characters/Player/Running/Running_010.png" id="29_uotg6"]
 [ext_resource type="Texture2D" uid="uid://cv0yvb18vak3" path="res://Assets/Sprites/Characters/Player/Running/Running_011.png" id="30_msgkm"]
 [ext_resource type="Script" path="res://Scripts/Characters/Player/PlayerMoveState.cs" id="32_kl2al"]
-[ext_resource type="Script" path="res://Scenes/Characters/Player/PlayerIdleState.cs" id="32_ul3qf"]
+[ext_resource type="Script" path="res://Scripts/Characters/Player/PlayerIdleState.cs" id="32_ssevn"]
 [ext_resource type="Texture2D" uid="uid://btej2ca8lbg70" path="res://Assets/Sprites/Characters/Player/Sliding/Sliding_000.png" id="33_f7x06"]
 [ext_resource type="Texture2D" uid="uid://dvq618ds4kc2m" path="res://Assets/Sprites/Characters/Player/Sliding/Sliding_001.png" id="34_g8v85"]
 [ext_resource type="Script" path="res://Scripts/Characters/StateMachine.cs" id="34_t6kjr"]
@@ -132,4 +132,4 @@ one_shot = true
 script = ExtResource("32_kl2al")
 
 [node name="IdleState" type="Node" parent="StateMachine"]
-script = ExtResource("32_ul3qf")
+script = ExtResource("32_ssevn")
