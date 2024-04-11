@@ -20,6 +20,11 @@ public partial class PlayerDashState : Node
         if(what == 5001) {
             player.animPlayerNode.Play(GameConstants.ANIM_DASH);
             player.Velocity = new(player.direction.X, 0, player.direction.Y);
+
+            if(player.Velocity == Vector3.Zero) {
+                player.Velocity = player.spriteNode.FlipH ? Vector3.Left : Vector3.Right;
+            }
+
             player.Velocity *= speed;
             dashTimer.Start();
         } else if (what == 5002) {
@@ -34,6 +39,7 @@ public partial class PlayerDashState : Node
     }
 
     private void HandleDashTimeout() {
+        player.Velocity = Vector3.Zero;
         player.stateMachineNode.SwitchState<PlayerIdleState>();
     }
 }
