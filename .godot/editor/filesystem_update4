@@ -1,2 +1,11 @@
 res://Levels/main.tscn
 res://Ressources/tiles.tres
+res://Scenes/Characters/Player/player.tscn
+res://Levels/tiles.tscn
+res://Scripts/Characters/Player/Player.cs
+res://Scripts/Characters/Player/PlayerDashState.cs
+res://Scripts/Characters/Player/PlayerIdleState.cs
+res://Scripts/Characters/Player/PlayerMoveState.cs
+res://Scripts/Characters/Player/PlayerState.cs
+res://Scripts/Characters/StateMachine.cs
+res://Scripts/Levels/Main.cs
