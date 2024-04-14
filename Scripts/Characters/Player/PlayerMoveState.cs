@@ -3,6 +3,7 @@ using System;
 
 public partial class PlayerMoveState : PlayerState
 {
+    [Export(PropertyHint.Range, "0, 20, 0.1")] private float speed = 5;
     public override void _PhysicsProcess(double delta)
     {
         if(player.direction == Vector2.Zero) {

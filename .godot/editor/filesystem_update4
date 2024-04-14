@@ -5,3 +5,5 @@ res://Scripts/Characters/Player/PlayerMoveState.cs
 res://Scripts/Characters/Player/PlayerState.cs
 res://Scripts/Characters/StateMachine.cs
 res://Scripts/Levels/Main.cs
+res://Scenes/Characters/Player/player.tscn
+res://Levels/main.tscn
