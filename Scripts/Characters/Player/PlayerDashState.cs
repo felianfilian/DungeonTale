@@ -16,11 +16,11 @@ public partial class PlayerDashState : PlayerState
     {
         base.EnterState();
         
-        player.animPlayerNode.Play(GameConstants.ANIM_DASH);
+        player.AnimPlayerNode.Play(GameConstants.ANIM_DASH);
         player.Velocity = new(player.direction.X, 0, player.direction.Y);
 
         if(player.Velocity == Vector3.Zero) {
-            player.Velocity = player.spriteNode.FlipH ? Vector3.Left : Vector3.Right;
+            player.Velocity = player.SpriteNode.FlipH ? Vector3.Left : Vector3.Right;
         }
 
         player.Velocity *= speed;
@@ -35,6 +35,6 @@ public partial class PlayerDashState : PlayerState
 
     private void HandleDashTimeout() {
         player.Velocity = Vector3.Zero;
-        player.stateMachineNode.SwitchState<PlayerIdleState>();
+        player.StateMachineNode.SwitchState<PlayerIdleState>();
     }
 }
