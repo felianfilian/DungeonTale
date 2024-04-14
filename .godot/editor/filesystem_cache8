@@ -1,5 +1,5 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1713113315
+::res://::1713114374
 icon.svg::CompressedTexture2D::464810513771733220::1710478288::1710478323::1::::<><>::
 ::res://Assets/::1710478548
 Icon.png::CompressedTexture2D::557298867948803100::1710478508::1710478548::1::::<><>::
@@ -647,9 +647,11 @@ UI ElementUI 10.png::CompressedTexture2D::1685150520851309820::1710478536::17104
 UI ElementUI 11.png::CompressedTexture2D::8965903955871114396::1710478536::1710478548::1::::<><>::
 UI ElementUI 12.png::CompressedTexture2D::8187075005398732456::1710478536::1710478548::1::::<><>::
 UI ElementUI 13.png::CompressedTexture2D::8248199214128504083::1710478536::1710478548::1::::<><>::
-::res://Levels/::1713112270
+::res://Levels/::1713113703
 main.tscn::PackedScene::652284258381495737::1713084411::0::1::::<><>::res://Scripts/Levels/Main.cs<>uid://cpatojcfnuqv5::::res://Scenes/Characters/Player/player.tscn
-tiles.tscn::PackedScene::285870861685163170::1713112270::0::1::::<><>::
+tiles.tscn::PackedScene::285870861685163170::1713113703::0::1::::<><>::uid://cbhrqpiie11m0::::res://Assets/Models/Dungeon/gltf/floor_tile_small.gltf.glb<>uid://k4pc6hg5gxaa::::res://Assets/Models/Dungeon/gltf/wall.gltf.glb<>uid://capyiq01nia0e::::res://Assets/Models/Dungeon/gltf/stairs_wood_decorated.gltf.glb<>uid://7bdjr5bvfl2p::::res://Assets/Models/Dungeon/gltf/wall_corner.gltf.glb<>uid://c4tekkxbs56e4::::res://Assets/Models/Dungeon/gltf/wall_Tsplit.gltf.glb<>uid://bc25lofnvssng::::res://Assets/Models/Dungeon/gltf/wall_open_scaffold.gltf.glb<>uid://c1w8dnu4kmk78::::res://Assets/Models/Dungeon/gltf/wall_doorway_scaffold.glb
+::res://Ressources/::1713113785
+tiles.tres::MeshLibrary::898801124556986114::1713113785::0::1::::<><>::uid://biuo1cambpbct::::res://Assets/Models/Dungeon/gltf/floor_tile_small_dungeon_texture.png<>uid://gobdtqvwlqk7::::res://Assets/Models/Dungeon/gltf/wall_dungeon_texture.png<>uid://bv25ucm4txhnf::::res://Assets/Models/Dungeon/gltf/stairs_wood_decorated_dungeon_texture.png<>uid://32nqohl7as14::::res://Assets/Models/Dungeon/gltf/wall_corner_dungeon_texture.png<>uid://cyg8n5xv8oiju::::res://Assets/Models/Dungeon/gltf/wall_Tsplit_dungeon_texture.png<>uid://hkuhrc5w5y7s::::res://Assets/Models/Dungeon/gltf/wall_open_scaffold_dungeon_texture.png<>uid://db42gmmphtn4::::res://Assets/Models/Dungeon/gltf/wall_doorway_scaffold_dungeon_texture.png
 ::res://Scenes/::1710795550
 ::res://Scenes/Characters/::1710795563
 ::res://Scenes/Characters/Player/::1713084410
