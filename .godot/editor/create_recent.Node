@@ -1,3 +1,5 @@
+AnimationPlayer
+Sprite3D
 CollisionShape3D
 StaticBody3D
 GridMap
@@ -5,6 +7,4 @@ Node3D
 Timer
 Node
 Camera3D
-AnimationPlayer
-Sprite3D
 CharacterBody3D

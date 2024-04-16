@@ -1,12 +1,12 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1713114374
+::res://::1713148351
 icon.svg::CompressedTexture2D::464810513771733220::1710478288::1710478323::1::::<><>::
 ::res://Assets/::1710478548
 Icon.png::CompressedTexture2D::557298867948803100::1710478508::1710478548::1::::<><>::
 RifficFree-Bold.ttf::FontFile::3940365325991015447::1710478522::1710478537::1::::<><>::
 ::res://Assets/Models/::1710478489
 ::res://Assets/Models/Dungeon/::1710478497
-::res://Assets/Models/Dungeon/gltf/::1710478744
+::res://Assets/Models/Dungeon/gltf/::1713149860
 banner_blue.gltf.glb::PackedScene::6168350874352640728::1710478508::1710478607::1::::<><>::
 banner_blue_dungeon_texture.png::CompressedTexture2D::2371256873580558574::1710478606::1710478744::1::::<><>::
 banner_brown.gltf.glb::PackedScene::1007904627395381324::1710478508::1710478606::1::::<><>::
@@ -215,7 +215,7 @@ floor_tile_large.gltf.glb::PackedScene::6590697519593887139::1710478515::1710478
 floor_tile_large_dungeon_texture.png::CompressedTexture2D::1939630272582481587::1710478673::1710478731::1::::<><>::
 floor_tile_large_rocks.gltf.glb::PackedScene::6619592037654853723::1710478515::1710478672::1::::<><>::
 floor_tile_large_rocks_dungeon_texture.png::CompressedTexture2D::1384338832484319352::1710478672::1710478731::1::::<><>::
-floor_tile_small.gltf.glb::PackedScene::4858542417460729769::1710478515::1710478672::1::::<><>::
+floor_tile_small.gltf.glb::PackedScene::4858542417460729769::1710478515::1713149441::1::::<><>::
 floor_tile_small_broken_A.gltf.glb::PackedScene::4610417265736637547::1710478515::1710478671::1::::<><>::
 floor_tile_small_broken_A_dungeon_texture.png::CompressedTexture2D::7470224867899023189::1710478670::1710478731::1::::<><>::
 floor_tile_small_broken_B.gltf.glb::PackedScene::5034545602605996849::1710478515::1710478670::1::::<><>::
@@ -286,7 +286,7 @@ stairs_wall_right_dungeon_texture.png::CompressedTexture2D::4527946853019871805:
 stairs_wide.gltf.glb::PackedScene::3587613042603403225::1710478517::1710478686::1::::<><>::
 stairs_wide_dungeon_texture.png::CompressedTexture2D::1509734269061962685::1710478686::1710478727::1::::<><>::
 stairs_wood.gltf.glb::PackedScene::3334750708281079752::1710478517::1710478685::1::::<><>::
-stairs_wood_decorated.gltf.glb::PackedScene::4805279408067454438::1710478517::1710478684::1::::<><>::
+stairs_wood_decorated.gltf.glb::PackedScene::4805279408067454438::1710478517::1713149559::1::::<><>::
 stairs_wood_decorated_dungeon_texture.png::CompressedTexture2D::3917981950040770403::1710478684::1710478727::1::::<><>::
 stairs_wood_dungeon_texture.png::CompressedTexture2D::3981838241991986211::1710478685::1710478727::1::::<><>::
 stool.gltf.glb::PackedScene::872915253666523394::1710478517::1710478683::1::::<><>::
@@ -349,7 +349,7 @@ trunk_small_B.gltf.glb::PackedScene::3693307390008295471::1710478519::1710478628
 trunk_small_B_dungeon_texture.png::CompressedTexture2D::6933262369272102449::1710478627::1710478722::1::::<><>::
 trunk_small_C.gltf.glb::PackedScene::2088276479488066734::1710478519::1710478627::1::::<><>::
 trunk_small_C_dungeon_texture.png::CompressedTexture2D::9104418342943715860::1710478627::1710478722::1::::<><>::
-wall.gltf.glb::PackedScene::762671357077814508::1710478519::1710478627::1::::<><>::
+wall.gltf.glb::PackedScene::762671357077814508::1710478519::1713149503::1::::<><>::
 wall_arched.gltf.glb::PackedScene::7729487514526207229::1710478520::1710478626::1::::<><>::
 wall_archedwindow_gated.gltf.glb::PackedScene::6217792192053427817::1710478520::1710478625::1::::<><>::
 wall_archedwindow_gated_dungeon_texture.png::CompressedTexture2D::1288096279515288641::1710478625::1710478722::1::::<><>::
@@ -360,7 +360,7 @@ wall_archedwindow_open_dungeon_texture.png::CompressedTexture2D::705971327450619
 wall_arched_dungeon_texture.png::CompressedTexture2D::3883139366136147311::1710478626::1710478722::1::::<><>::
 wall_broken.gltf.glb::PackedScene::8333480952975606452::1710478520::1710478624::1::::<><>::
 wall_broken_dungeon_texture.png::CompressedTexture2D::8214457000280233439::1710478623::1710478741::1::::<><>::
-wall_corner.gltf.glb::PackedScene::2248306536609333097::1710478520::1710478654::1::::<><>::
+wall_corner.gltf.glb::PackedScene::2248306536609333097::1710478520::1713149656::1::::<><>::
 wall_corner_dungeon_texture.png::CompressedTexture2D::2021844461516070137::1710478654::1710478722::1::::<><>::
 wall_corner_gated.gltf.glb::PackedScene::7424064844930834522::1710478520::1710478654::1::::<><>::
 wall_corner_gated_dungeon_texture.png::CompressedTexture2D::7969365487863157061::1710478653::1710478721::1::::<><>::
@@ -374,7 +374,7 @@ wall_crossing.gltf.glb::PackedScene::7601063486017976184::1710478520::1710478651
 wall_crossing_dungeon_texture.png::CompressedTexture2D::590359446385559816::1710478651::1710478721::1::::<><>::
 wall_doorway.glb::PackedScene::4555169823728845061::1710478520::1710478651::1::::<><>::
 wall_doorway_dungeon_texture.png::CompressedTexture2D::1534223668713511832::1710478650::1710478721::1::::<><>::
-wall_doorway_scaffold.glb::PackedScene::6645177345738482345::1710478520::1710478650::1::::<><>::
+wall_doorway_scaffold.glb::PackedScene::6645177345738482345::1710478520::1713149860::1::::<><>::
 wall_doorway_scaffold_dungeon_texture.png::CompressedTexture2D::214440252137138123::1710478650::1710478721::1::::<><>::
 wall_doorway_sides.gltf.glb::PackedScene::6188269318016653753::1710478520::1710478649::1::::<><>::
 wall_doorway_sides_dungeon_texture.png::CompressedTexture2D::4461792601503622235::1710478649::1710478721::1::::<><>::
@@ -391,7 +391,7 @@ wall_half_endcap.gltf.glb::PackedScene::3862664285981241332::1710478521::1710478
 wall_half_endcap_dungeon_texture.png::CompressedTexture2D::6237497944642544993::1710478646::1710478720::1::::<><>::
 wall_half_endcap_sloped.gltf.glb::PackedScene::7370249345560120301::1710478521::1710478646::1::::<><>::
 wall_half_endcap_sloped_dungeon_texture.png::CompressedTexture2D::1635046538226529282::1710478645::1710478720::1::::<><>::
-wall_open_scaffold.gltf.glb::PackedScene::2584378467515103944::1710478521::1710478645::1::::<><>::
+wall_open_scaffold.gltf.glb::PackedScene::2584378467515103944::1710478521::1713149728::1::::<><>::
 wall_open_scaffold_dungeon_texture.png::CompressedTexture2D::513193420799719362::1710478645::1710478720::1::::<><>::
 wall_pillar.gltf.glb::PackedScene::7583038209315844581::1710478521::1710478645::1::::<><>::
 wall_pillar_dungeon_texture.png::CompressedTexture2D::1298920070032133447::1710478644::1710478720::1::::<><>::
@@ -401,7 +401,7 @@ wall_shelves.gltf.glb::PackedScene::6501517474117088849::1710478521::1710478643:
 wall_shelves_dungeon_texture.png::CompressedTexture2D::5715993843320060675::1710478643::1710478719::1::::<><>::
 wall_sloped.gltf.glb::PackedScene::8760431014778348138::1710478521::1710478643::1::::<><>::
 wall_sloped_dungeon_texture.png::CompressedTexture2D::4305433992874541330::1710478642::1710478719::1::::<><>::
-wall_Tsplit.gltf.glb::PackedScene::6847802296961099409::1710478521::1710478642::1::::<><>::
+wall_Tsplit.gltf.glb::PackedScene::6847802296961099409::1710478521::1713149682::1::::<><>::
 wall_Tsplit_dungeon_texture.png::CompressedTexture2D::6471788369535203654::1710478642::1710478719::1::::<><>::
 wall_Tsplit_sloped.gltf.glb::PackedScene::5054195344304143109::1710478521::1710478642::1::::<><>::
 wall_Tsplit_sloped_dungeon_texture.png::CompressedTexture2D::3322074360385397571::1710478641::1710478719::1::::<><>::
@@ -466,7 +466,7 @@ smoke-Fx3_15.png::CompressedTexture2D::1661348102796449776::1710478524::17104785
 smoke-Fx3_16.png::CompressedTexture2D::7884510564066577637::1710478524::1710478545::1::::<><>::
 smoke-Fx3_17.png::CompressedTexture2D::7692516264210709403::1710478524::1710478545::1::::<><>::
 ::res://Assets/Sprites/Characters/Enemy Knight/Idle/::1710478546
-0_Demons_of_Darkness_Idle_000.png::CompressedTexture2D::6073088970089250034::1710478525::1710478546::1::::<><>::
+0_Demons_of_Darkness_Idle_000.png::CompressedTexture2D::6073088970089250034::1710478525::1713235062::1::::<><>::
 0_Demons_of_Darkness_Idle_001.png::CompressedTexture2D::4953201585788646287::1710478525::1710478546::1::::<><>::
 0_Demons_of_Darkness_Idle_002.png::CompressedTexture2D::2640720038545680659::1710478525::1710478545::1::::<><>::
 0_Demons_of_Darkness_Idle_003.png::CompressedTexture2D::8993329162283504512::1710478525::1710478545::1::::<><>::
@@ -647,15 +647,16 @@ UI ElementUI 10.png::CompressedTexture2D::1685150520851309820::1710478536::17104
 UI ElementUI 11.png::CompressedTexture2D::8965903955871114396::1710478536::1710478548::1::::<><>::
 UI ElementUI 12.png::CompressedTexture2D::8187075005398732456::1710478536::1710478548::1::::<><>::
 UI ElementUI 13.png::CompressedTexture2D::8248199214128504083::1710478536::1710478548::1::::<><>::
-::res://Levels/::1713113703
-main.tscn::PackedScene::652284258381495737::1713084411::0::1::::<><>::res://Scripts/Levels/Main.cs<>uid://cpatojcfnuqv5::::res://Scenes/Characters/Player/player.tscn
-tiles.tscn::PackedScene::285870861685163170::1713113703::0::1::::<><>::uid://cbhrqpiie11m0::::res://Assets/Models/Dungeon/gltf/floor_tile_small.gltf.glb<>uid://k4pc6hg5gxaa::::res://Assets/Models/Dungeon/gltf/wall.gltf.glb<>uid://capyiq01nia0e::::res://Assets/Models/Dungeon/gltf/stairs_wood_decorated.gltf.glb<>uid://7bdjr5bvfl2p::::res://Assets/Models/Dungeon/gltf/wall_corner.gltf.glb<>uid://c4tekkxbs56e4::::res://Assets/Models/Dungeon/gltf/wall_Tsplit.gltf.glb<>uid://bc25lofnvssng::::res://Assets/Models/Dungeon/gltf/wall_open_scaffold.gltf.glb<>uid://c1w8dnu4kmk78::::res://Assets/Models/Dungeon/gltf/wall_doorway_scaffold.glb
-::res://Ressources/::1713113785
-tiles.tres::MeshLibrary::898801124556986114::1713113785::0::1::::<><>::uid://biuo1cambpbct::::res://Assets/Models/Dungeon/gltf/floor_tile_small_dungeon_texture.png<>uid://gobdtqvwlqk7::::res://Assets/Models/Dungeon/gltf/wall_dungeon_texture.png<>uid://bv25ucm4txhnf::::res://Assets/Models/Dungeon/gltf/stairs_wood_decorated_dungeon_texture.png<>uid://32nqohl7as14::::res://Assets/Models/Dungeon/gltf/wall_corner_dungeon_texture.png<>uid://cyg8n5xv8oiju::::res://Assets/Models/Dungeon/gltf/wall_Tsplit_dungeon_texture.png<>uid://hkuhrc5w5y7s::::res://Assets/Models/Dungeon/gltf/wall_open_scaffold_dungeon_texture.png<>uid://db42gmmphtn4::::res://Assets/Models/Dungeon/gltf/wall_doorway_scaffold_dungeon_texture.png
+::res://Levels/::1713234519
+main.tscn::PackedScene::652284258381495737::1713234519::0::1::::<><>::res://Scripts/Levels/Main.cs<>uid://cpatojcfnuqv5::::res://Scenes/Characters/Player/player.tscn<>uid://m2negoph4ke1::::res://Ressources/tiles.tres
+tiles.tscn::PackedScene::285870861685163170::1713234478::0::1::::<><>::uid://cbhrqpiie11m0::::res://Assets/Models/Dungeon/gltf/floor_tile_small.gltf.glb<>uid://k4pc6hg5gxaa::::res://Assets/Models/Dungeon/gltf/wall.gltf.glb<>uid://capyiq01nia0e::::res://Assets/Models/Dungeon/gltf/stairs_wood_decorated.gltf.glb<>uid://7bdjr5bvfl2p::::res://Assets/Models/Dungeon/gltf/wall_corner.gltf.glb<>uid://c4tekkxbs56e4::::res://Assets/Models/Dungeon/gltf/wall_Tsplit.gltf.glb<>uid://bc25lofnvssng::::res://Assets/Models/Dungeon/gltf/wall_open_scaffold.gltf.glb<>uid://c1w8dnu4kmk78::::res://Assets/Models/Dungeon/gltf/wall_doorway_scaffold.glb
+::res://Ressources/::1713149927
+tiles.tres::MeshLibrary::898801124556986114::1713149927::0::1::::<><>::uid://biuo1cambpbct::::res://Assets/Models/Dungeon/gltf/floor_tile_small_dungeon_texture.png<>uid://gobdtqvwlqk7::::res://Assets/Models/Dungeon/gltf/wall_dungeon_texture.png<>uid://bv25ucm4txhnf::::res://Assets/Models/Dungeon/gltf/stairs_wood_decorated_dungeon_texture.png<>uid://32nqohl7as14::::res://Assets/Models/Dungeon/gltf/wall_corner_dungeon_texture.png<>uid://cyg8n5xv8oiju::::res://Assets/Models/Dungeon/gltf/wall_Tsplit_dungeon_texture.png<>uid://hkuhrc5w5y7s::::res://Assets/Models/Dungeon/gltf/wall_open_scaffold_dungeon_texture.png<>uid://db42gmmphtn4::::res://Assets/Models/Dungeon/gltf/wall_doorway_scaffold_dungeon_texture.png
 ::res://Scenes/::1710795550
-::res://Scenes/Characters/::1710795563
-::res://Scenes/Characters/Player/::1713084410
-player.tscn::PackedScene::5826853121979034168::1713084410::0::1::::<><>::uid://dwuqqn0v5bexj::::res://Assets/Sprites/Characters/Player/Running/Running_002.png<>res://Scripts/Characters/Player/Player.cs<>uid://ddmdalmgl7o5l::::res://Assets/Sprites/Characters/Player/Idle Blinking/Idle Blinking_000.png<>uid://deslmlgox3dar::::res://Assets/Sprites/Characters/Player/Sliding/Sliding_005.png<>uid://ol7bxiol4mcy::::res://Assets/Sprites/Characters/Player/Idle Blinking/Idle Blinking_001.png<>uid://dtemm1iy7dxhd::::res://Assets/Sprites/Characters/Player/Idle Blinking/Idle Blinking_002.png<>uid://cnkrmptll3qm2::::res://Assets/Sprites/Characters/Player/Idle Blinking/Idle Blinking_003.png<>uid://cm004kus44a3j::::res://Assets/Sprites/Characters/Player/Idle Blinking/Idle Blinking_004.png<>uid://bhjbtys8yxfda::::res://Assets/Sprites/Characters/Player/Idle Blinking/Idle Blinking_005.png<>uid://qxlvm4ltjv0b::::res://Assets/Sprites/Characters/Player/Idle Blinking/Idle Blinking_006.png<>uid://k031tgyy4u06::::res://Assets/Sprites/Characters/Player/Idle Blinking/Idle Blinking_007.png<>uid://8fw07lmxeba2::::res://Assets/Sprites/Characters/Player/Idle Blinking/Idle Blinking_008.png<>uid://cbmnhbec7ven::::res://Assets/Sprites/Characters/Player/Idle Blinking/Idle Blinking_009.png<>uid://dkl26ed6u1okw::::res://Assets/Sprites/Characters/Player/Idle Blinking/Idle Blinking_010.png<>uid://cd0vwuj52j0gq::::res://Assets/Sprites/Characters/Player/Idle Blinking/Idle Blinking_011.png<>uid://cy1vii40dig3d::::res://Assets/Sprites/Characters/Player/Idle Blinking/Idle Blinking_012.png<>uid://duawhu3etxkx3::::res://Assets/Sprites/Characters/Player/Idle Blinking/Idle Blinking_013.png<>uid://chacuyspsdcns::::res://Assets/Sprites/Characters/Player/Idle Blinking/Idle Blinking_014.png<>uid://b6ubm7h8ny11d::::res://Assets/Sprites/Characters/Player/Idle Blinking/Idle Blinking_015.png<>uid://c8cd27n4ixnh5::::res://Assets/Sprites/Characters/Player/Idle Blinking/Idle Blinking_016.png<>uid://cmgu0ks5e0vwn::::res://Assets/Sprites/Characters/Player/Idle Blinking/Idle Blinking_017.png<>uid://cjgu306wseiq8::::res://Assets/Sprites/Characters/Player/Running/Running_000.png<>uid://b7qv164qx2m0b::::res://Assets/Sprites/Characters/Player/Running/Running_001.png<>uid://cjagpbxcmbbhq::::res://Assets/Sprites/Characters/Player/Running/Running_003.png<>uid://dd3lf7x31bpv5::::res://Assets/Sprites/Characters/Player/Running/Running_004.png<>uid://bnidjohegdcl0::::res://Assets/Sprites/Characters/Player/Running/Running_005.png<>uid://8kt7kk721ddw::::res://Assets/Sprites/Characters/Player/Running/Running_006.png<>uid://drtqfqg4d4d5v::::res://Assets/Sprites/Characters/Player/Running/Running_007.png<>uid://decd3l780xc1q::::res://Assets/Sprites/Characters/Player/Running/Running_008.png<>uid://b8w0itewktobn::::res://Assets/Sprites/Characters/Player/Running/Running_009.png<>uid://cjo4gg1c13qs2::::res://Assets/Sprites/Characters/Player/Running/Running_010.png<>uid://cv0yvb18vak3::::res://Assets/Sprites/Characters/Player/Running/Running_011.png<>res://Scripts/Characters/Player/PlayerMoveState.cs<>res://Scripts/Characters/Player/PlayerIdleState.cs<>uid://btej2ca8lbg70::::res://Assets/Sprites/Characters/Player/Sliding/Sliding_000.png<>uid://dvq618ds4kc2m::::res://Assets/Sprites/Characters/Player/Sliding/Sliding_001.png<>res://Scripts/Characters/StateMachine.cs<>uid://cd5y7tphc0apu::::res://Assets/Sprites/Characters/Player/Sliding/Sliding_002.png<>uid://cqnqmjw2hcj37::::res://Assets/Sprites/Characters/Player/Sliding/Sliding_003.png<>uid://bak1movhqihv7::::res://Assets/Sprites/Characters/Player/Sliding/Sliding_004.png<>res://Scripts/Characters/Player/PlayerDashState.cs
+::res://Scenes/Characters/::1713234953
+::res://Scenes/Characters/Enemy/::1713234953
+::res://Scenes/Characters/Player/::1713234476
+player.tscn::PackedScene::5826853121979034168::1713234475::0::1::::<><>::uid://dwuqqn0v5bexj::::res://Assets/Sprites/Characters/Player/Running/Running_002.png<>res://Scripts/Characters/Player/Player.cs<>uid://ddmdalmgl7o5l::::res://Assets/Sprites/Characters/Player/Idle Blinking/Idle Blinking_000.png<>uid://deslmlgox3dar::::res://Assets/Sprites/Characters/Player/Sliding/Sliding_005.png<>uid://ol7bxiol4mcy::::res://Assets/Sprites/Characters/Player/Idle Blinking/Idle Blinking_001.png<>uid://dtemm1iy7dxhd::::res://Assets/Sprites/Characters/Player/Idle Blinking/Idle Blinking_002.png<>uid://cnkrmptll3qm2::::res://Assets/Sprites/Characters/Player/Idle Blinking/Idle Blinking_003.png<>uid://cm004kus44a3j::::res://Assets/Sprites/Characters/Player/Idle Blinking/Idle Blinking_004.png<>uid://bhjbtys8yxfda::::res://Assets/Sprites/Characters/Player/Idle Blinking/Idle Blinking_005.png<>uid://qxlvm4ltjv0b::::res://Assets/Sprites/Characters/Player/Idle Blinking/Idle Blinking_006.png<>uid://k031tgyy4u06::::res://Assets/Sprites/Characters/Player/Idle Blinking/Idle Blinking_007.png<>uid://8fw07lmxeba2::::res://Assets/Sprites/Characters/Player/Idle Blinking/Idle Blinking_008.png<>uid://cbmnhbec7ven::::res://Assets/Sprites/Characters/Player/Idle Blinking/Idle Blinking_009.png<>uid://dkl26ed6u1okw::::res://Assets/Sprites/Characters/Player/Idle Blinking/Idle Blinking_010.png<>uid://cd0vwuj52j0gq::::res://Assets/Sprites/Characters/Player/Idle Blinking/Idle Blinking_011.png<>uid://cy1vii40dig3d::::res://Assets/Sprites/Characters/Player/Idle Blinking/Idle Blinking_012.png<>uid://duawhu3etxkx3::::res://Assets/Sprites/Characters/Player/Idle Blinking/Idle Blinking_013.png<>uid://chacuyspsdcns::::res://Assets/Sprites/Characters/Player/Idle Blinking/Idle Blinking_014.png<>uid://b6ubm7h8ny11d::::res://Assets/Sprites/Characters/Player/Idle Blinking/Idle Blinking_015.png<>uid://c8cd27n4ixnh5::::res://Assets/Sprites/Characters/Player/Idle Blinking/Idle Blinking_016.png<>uid://cmgu0ks5e0vwn::::res://Assets/Sprites/Characters/Player/Idle Blinking/Idle Blinking_017.png<>uid://cjgu306wseiq8::::res://Assets/Sprites/Characters/Player/Running/Running_000.png<>uid://b7qv164qx2m0b::::res://Assets/Sprites/Characters/Player/Running/Running_001.png<>uid://cjagpbxcmbbhq::::res://Assets/Sprites/Characters/Player/Running/Running_003.png<>uid://dd3lf7x31bpv5::::res://Assets/Sprites/Characters/Player/Running/Running_004.png<>uid://bnidjohegdcl0::::res://Assets/Sprites/Characters/Player/Running/Running_005.png<>uid://8kt7kk721ddw::::res://Assets/Sprites/Characters/Player/Running/Running_006.png<>uid://drtqfqg4d4d5v::::res://Assets/Sprites/Characters/Player/Running/Running_007.png<>uid://decd3l780xc1q::::res://Assets/Sprites/Characters/Player/Running/Running_008.png<>uid://b8w0itewktobn::::res://Assets/Sprites/Characters/Player/Running/Running_009.png<>uid://cjo4gg1c13qs2::::res://Assets/Sprites/Characters/Player/Running/Running_010.png<>uid://cv0yvb18vak3::::res://Assets/Sprites/Characters/Player/Running/Running_011.png<>res://Scripts/Characters/Player/PlayerMoveState.cs<>res://Scripts/Characters/Player/PlayerIdleState.cs<>uid://btej2ca8lbg70::::res://Assets/Sprites/Characters/Player/Sliding/Sliding_000.png<>uid://dvq618ds4kc2m::::res://Assets/Sprites/Characters/Player/Sliding/Sliding_001.png<>res://Scripts/Characters/StateMachine.cs<>uid://cd5y7tphc0apu::::res://Assets/Sprites/Characters/Player/Sliding/Sliding_002.png<>uid://cqnqmjw2hcj37::::res://Assets/Sprites/Characters/Player/Sliding/Sliding_003.png<>uid://bak1movhqihv7::::res://Assets/Sprites/Characters/Player/Sliding/Sliding_004.png<>res://Scripts/Characters/Player/PlayerDashState.cs
 ::res://Scripts/::1712385721
 ::res://Scripts/Characters/::1712516366
 StateMachine.cs::CSharpScript::-1::1712970910::0::1::::<>Node<>::
