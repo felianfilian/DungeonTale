@@ -1,4 +1,4 @@
-[gd_scene load_steps=5 format=3 uid="uid://jj8a5ta4ve4x"]
+[gd_scene load_steps=7 format=3 uid="uid://jj8a5ta4ve4x"]
 
 [ext_resource type="Script" path="res://Scripts/Levels/Main.cs" id="1_tuvp5"]
 [ext_resource type="PackedScene" uid="uid://cpatojcfnuqv5" path="res://Scenes/Characters/Player/player.tscn" id="2_ypa3x"]
@@ -6,6 +6,12 @@
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_kggls"]
 size = Vector3(1, 2.82129, 2.50684)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_lhu5e"]
+size = Vector3(1, 6.0719, 4.91248)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_5ypmc"]
+size = Vector3(1, 6.0719, 4.91248)
 
 [node name="Main" type="Node3D"]
 script = ExtResource("1_tuvp5")
@@ -45,3 +51,17 @@ transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -14.3568, 2, -1.39785)
 [node name="CollisionShape3D" type="CollisionShape3D" parent="Enviroment/InvisibleWall"]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.45752, 0.0415039)
 shape = SubResource("BoxShape3D_kggls")
+
+[node name="InvisibleWall2" type="StaticBody3D" parent="Enviroment"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 22.9674, 2, -17.4955)
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="Enviroment/InvisibleWall2"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 2.08282, -0.0110474)
+shape = SubResource("BoxShape3D_lhu5e")
+
+[node name="InvisibleWall3" type="StaticBody3D" parent="Enviroment"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 29.0968, 1.98387, -17.4955)
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="Enviroment/InvisibleWall3"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 2.08282, -0.0110474)
+shape = SubResource("BoxShape3D_5ypmc")
