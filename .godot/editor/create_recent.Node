@@ -1,4 +1,5 @@
 CollisionShape3D
+StaticBody3D
 GridMap
 Node3D
 Timer

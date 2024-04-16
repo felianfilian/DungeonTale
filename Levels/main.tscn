@@ -1,8 +1,11 @@
-[gd_scene load_steps=4 format=3 uid="uid://jj8a5ta4ve4x"]
+[gd_scene load_steps=5 format=3 uid="uid://jj8a5ta4ve4x"]
 
 [ext_resource type="Script" path="res://Scripts/Levels/Main.cs" id="1_tuvp5"]
 [ext_resource type="PackedScene" uid="uid://cpatojcfnuqv5" path="res://Scenes/Characters/Player/player.tscn" id="2_ypa3x"]
 [ext_resource type="MeshLibrary" uid="uid://m2negoph4ke1" path="res://Ressources/tiles.tres" id="3_man7b"]
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_kggls"]
+size = Vector3(1, 2.82129, 2.50684)
 
 [node name="Main" type="Node3D"]
 script = ExtResource("1_tuvp5")
@@ -35,3 +38,10 @@ mesh_library = ExtResource("3_man7b")
 data = {
 "cells": PackedInt32Array(12, 65525, 2, 13, 65525, 2)
 }
+
+[node name="InvisibleWall" type="StaticBody3D" parent="Enviroment"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -14.3568, 2, -1.39785)
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="Enviroment/InvisibleWall"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.45752, 0.0415039)
+shape = SubResource("BoxShape3D_kggls")
