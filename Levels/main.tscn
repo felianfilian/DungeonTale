@@ -4,7 +4,7 @@
 [ext_resource type="PackedScene" uid="uid://cpatojcfnuqv5" path="res://Scenes/Characters/Player/player.tscn" id="2_ypa3x"]
 [ext_resource type="MeshLibrary" uid="uid://m2negoph4ke1" path="res://Ressources/tiles.tres" id="3_man7b"]
 
-[sub_resource type="BoxShape3D" id="BoxShape3D_kggls"]
+[sub_resource type="BoxShape3D" id="BoxShape3D_xdutl"]
 size = Vector3(1, 2.82129, 2.50684)
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_lhu5e"]
@@ -50,7 +50,7 @@ transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -14.3568, 2, -1.39785)
 
 [node name="CollisionShape3D" type="CollisionShape3D" parent="Enviroment/InvisibleWall"]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.45752, 0.0415039)
-shape = SubResource("BoxShape3D_kggls")
+shape = SubResource("BoxShape3D_xdutl")
 
 [node name="InvisibleWall2" type="StaticBody3D" parent="Enviroment"]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 22.9674, 2, -17.4955)
